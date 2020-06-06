@@ -1,6 +1,6 @@
 certifi==2020.4.5.1
 Cython==0.29.19
-Django==2.0.5
+Django==2.2.13
 numpy==1.18.4
 pystan==2.19.1.1
 pytz==2020.1
